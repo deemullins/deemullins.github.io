@@ -644,6 +644,11 @@ nav.navbar .logo {
   font-family: 'Montserrat', sans-serif;
 }
 
+nav.navbar img {
+  height: 80px;
+  width: 80px;
+}
+
 nav.navbar .navbar-toggler {
   border: 0;
 }
