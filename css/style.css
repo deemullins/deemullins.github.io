@@ -1150,13 +1150,12 @@ section.portfolio .portfolio-filter ul li.sel-item {
 
 section.portfolio .portfolio-items .item {
   margin-bottom: 30px;
-  width: 100%;
-  height: 240px;
 }
 
 section.portfolio .portfolio-items .item .item-content {
   position: relative;
   overflow: hidden;
+  height: 230px;
 }
 
 section.portfolio .portfolio-items .item .item-content:before {
