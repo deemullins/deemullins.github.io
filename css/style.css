@@ -966,6 +966,8 @@ section.about .about-img:before {
   z-index: 0;
 }
 
+
+
 section.about .about-img img {
   position: relative;
   width: 100%;
@@ -1003,7 +1005,7 @@ section.about .about-content .social-icons a {
   font-size: 15px;
   line-height: 26px;
   text-align: center;
-  margin-right: 10px;
+  margin-right: 20px;
   background-color: #222;
   -webkit-border-radius: 50%;
   border-radius: 50%;
@@ -1033,7 +1035,8 @@ section.about .about-content .social-icons a:hover .fa {
 }
 
 section.about .about-content .about-button {
-  margin-top: 40px;
+  margin-top: 30px;
+  text-align: center;
 }
 
 /*============ 6. Services Section ============*/
