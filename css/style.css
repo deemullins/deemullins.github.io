@@ -47,7 +47,7 @@ img {
 a,
 a:hover,
 a:focus {
-  color: inherit;
+  color: teal;
 }
 
 body {
@@ -1284,11 +1284,11 @@ section.portfolio .portfolio-items .item .item-content:hover .item-overlay .icon
   transition: all .5s;
 }
 
-.blogs .blog-item .blog-img img:hover {
+/*.blogs .blog-item .blog-img img:hover {
   -webkit-transform: scale(1.15);
   -ms-transform: scale(1.15);
   transform: scale(1.15);
-}
+}*/
 
 .blogs .blog-item .blog-content {
   padding: 30px 15px 15px;
